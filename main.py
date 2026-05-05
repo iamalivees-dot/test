@@ -1,1 +1,3 @@
-print('Hi word')
+print('Hi word!')
+
+a = 1
